@@ -1,0 +1,182 @@
+@import url('https://fonts.googleapis.com/css2?family=Domine:wght@400;700&family=Open+Sans:ital,wght@0,400;0,600;0,700;1,400;1,600;1,700&display=swap');
+@import 'productos.css';
+@import 'galery.css';
+@import 'servicios.css';
+
+* {
+	margin: 0;
+	padding: 0;
+}
+
+body {
+	background: url(../img/fondo-gris.jpg);
+	background-size: cover;
+	background-attachment: fixed;
+	font-family: 'Domine', serif;
+    font-family: 'Open Sans', sans-serif;
+}
+
+header {
+	width: 100%;
+	overflow: hidden;
+	background: #242526;
+}
+
+.wrapper {
+	width: 90%;
+	max-width: 1000px;
+	margin: auto;
+	overflow: hidden;
+}
+
+header h1 {
+	color: #fff;
+	margin-top: 20px;
+	line-height: 100px;
+	font-size: 25px;
+	float: left;
+}
+
+header nav { 
+	float: right;
+	line-height: 140px;
+}
+
+header nav a {
+	display: inline;
+	color: #fff;
+	text-decoration: none;
+	padding: 10px;
+	line-height: normal;
+	font-size: 15px;
+	font-weight: bold;
+}
+
+#login {
+	color: #fff;
+	margin-top: -5px;
+	margin-right: 5px;
+	margin-left: 5px;
+	padding-bottom: 10px;
+}
+
+header nav a:hover {
+	background-color: #FE2E64;
+	color: #fff;
+	border-radius: 5px;
+	transition: 0.5s;
+}
+
+#logo {
+	width: 60px;
+	height: 60px;
+	float: left;
+	margin-top: 40px;
+}
+
+main {
+	color: #fff;
+	margin-bottom: 100px;
+}
+
+#about {
+	font-size: 30px;
+	margin-top: 50px;
+}
+.wrapper h3 {
+	text-align: center;
+}
+
+.wrapper h2 {
+	color: #FE2E64;
+	font-size: 20px;
+}
+
+.wrapper p {
+	font-size: 18px;
+}
+
+.barber_name {
+	padding-left: 12.5%;
+}
+
+.names_barberos {
+	justify-content: space-around;
+	padding-left: 3px;
+	padding-right: 3px;
+	width: 100%;
+}
+
+.names_barberos li {
+	display: inline-block;
+	text-align: center;
+}
+
+.names_barberos h4 {
+	width: 300px;
+	font-size: 20px;
+}
+
+.sep_names {
+	margin-left: 39.05%;
+	width: 70px;
+	border: 0.01px solid #FE2E64;
+}
+
+#marco{
+	margin-left: 40px
+}
+
+#lucas{
+	margin-left: 40px
+}
+
+#lista_barberos {
+	justify-content: space-around;
+	padding-left: 3px;
+	padding-right: 3px;
+	width: 100%;
+}
+
+#lista_barberos li {
+	display: inline;
+	margin-right: 40px;
+	width: 300px;
+}
+
+#lista_barberos img{
+	width: 300px;
+	height: 500px;
+	object-fit: cover;
+	border: 1px solid #fff;
+}
+
+main .sep {
+	margin-left: 47.05%;
+	width: 70px;
+	border: 0.2px solid #FE2E64;
+	margin-top: 10px;
+}
+
+footer {
+	background-color: #242526;
+	position: relative;
+	width: 100%;
+	height: 100px;
+	color: white;
+	padding-top: 5px;
+}
+
+footer a {
+	text-decoration: none;
+	color: white;
+}
+
+footer i {
+	margin-right: 55px;
+}
+
+footer #copy {
+	margin-top: 50px;
+	margin-left: 43.5%;
+}
