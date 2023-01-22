@@ -6,22 +6,27 @@ I will update the page when i have more knowledge about php and js
 Web images: 
 
 Home:
-![imagen](https://user-images.githubusercontent.com/59478604/213915467-65f4b15f-7a7e-418a-a153-51b290603e0c.png)
-![imagen](https://user-images.githubusercontent.com/59478604/213915503-4e7e0801-c9ce-4a4f-bd20-1da4134232f8.png)
-![imagen](https://user-images.githubusercontent.com/59478604/213915525-5b72a116-0345-451e-9b59-97bcf4dc4caf.png)
-![imagen](https://user-images.githubusercontent.com/59478604/213915515-49d1c384-705e-451e-8269-b80482a628fa.png)
+![imagen](https://user-images.githubusercontent.com/59478604/213915987-6304ab38-57c6-4140-87be-102668f2f038.png)
+![imagen](https://user-images.githubusercontent.com/59478604/213916016-45e07548-5047-4b8d-add0-e996f4cb8e38.png)
+![imagen](https://user-images.githubusercontent.com/59478604/213916041-63e507ca-fa3f-4dd5-ab86-14d791c646f8.png)
+![imagen](https://user-images.githubusercontent.com/59478604/213916033-59358560-1d38-4d30-9dbe-7a472ce7b547.png)
+---------------------------------------------------------------------------------------------------------------
 
 Services:
-![imagen](https://user-images.githubusercontent.com/59478604/213915545-642e4254-27e6-45df-bb9e-412a3e2400f6.png)
+![imagen](https://user-images.githubusercontent.com/59478604/213916062-e4bfa2c9-7939-4c38-88d7-2955f8b345aa.png)
+---------------------------------------------------------------------------------------------------------------
 
 Galery:
-![imagen](https://user-images.githubusercontent.com/59478604/213915586-72e2e27b-c528-421e-823d-65e89a8d9f16.png)
+![imagen](https://user-images.githubusercontent.com/59478604/213916074-ae3db01a-2c15-401b-84f0-b0e224d5db64.png)
+---------------------------------------------------------------------------------------------------------------
 
 Products:
-![imagen](https://user-images.githubusercontent.com/59478604/213915606-4b7212dd-18cb-450f-9116-0e67d9a69cf0.png)
+![imagen](https://user-images.githubusercontent.com/59478604/213916099-bc796c0e-c91a-4d9b-975a-353c4b14b2f0.png)
+---------------------------------------------------------------------------------------------------------------
 
 Login:
-![imagen](https://user-images.githubusercontent.com/59478604/213915626-a8153dab-375a-4930-aaf2-825bb8ae6110.png)
+![imagen](https://user-images.githubusercontent.com/59478604/213916132-3bdefa63-e55b-4d8c-8e43-836bfe41da00.png)
+---------------------------------------------------------------------------------------------------------------
 
 Register:
-![imagen](https://user-images.githubusercontent.com/59478604/213915671-760dc272-5960-4157-b619-21feca677c96.png)
+![imagen](https://user-images.githubusercontent.com/59478604/213916158-55e47911-570a-4287-af0e-0a0be9999b0c.png)
